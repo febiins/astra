@@ -37,11 +37,7 @@ function Alan() {
       <div style={{ marginTop: '30px', textAlign: 'left' }}>
         <h3>About Me</h3>
         <p style={{ fontSize: '14px', lineHeight: '1.6', color: '#ccc' }}>
-          I’m a passionate and dynamic individual from Pala, Kottayam, currently pursuing my B.Sc. in Physics (2022–2025) at Alphonsa College, Pala, where I also serve as the Physics Association President. I am proud to be an M.G. University 3rd Rank Holder in Physics Model 2, and I completed my schooling at Carmel Public School, Pala.
-
-            Beyond academics, I actively explore diverse interests. I'm a state-level winner in the Asika Handwriting Competition, trained in Taekwondo and swimming, and an enthusiastic artist, dancer, and NSS volunteer. I also serve as a catechism teacher, contributing to my community's spiritual education. In 2024–25, I gained professional experience working as a part-time intern at the Medical Records Department of Mar Sleeva Medicity, Pala.
-
-            My hobbies include dancing, painting, journaling, and crafting, which reflect my creative and expressive personality. I take pride in my problem-solving ability, adaptability, and leadership qualities, which have helped me grow both personally and professionally.
+         I am an enthusiastic BCA student at Rajagiri College of Management and Applied Sciences, Kakkanad (2022–2025), based in Kochi. I completed my schooling at the Institution of Human Resource Department, Mallapally. My academic journey has been enriched by hands-on experiences, including a workshop on Cybersecurity Essentials and certifications in Python programming and Robotics. I’ve actively participated in major events such as Dextra 2024 (Department Fest), Inceptra 2024 (College Fest), and the international conference ICAET. Known for my leadership, problem-solving, and creative thinking skills, I am equally passionate about photography, sports, gaming, and movies—bringing a balanced and dynamic approach to both academics and extracurricular pursuits.
         </p>
       </div>
 
@@ -49,9 +45,9 @@ function Alan() {
       <div style={{ marginTop: '30px', textAlign: 'left' }}>
         <h3>Skills</h3>
         <ul style={{ paddingLeft: '20px', listStyle: 'square', color: '#ccc' }}>
-          <li>Problem solving</li>
-          <li>Adaptability</li>
-          <li>Leadership Qualities</li>
+          <li>Leadership</li>
+          <li>Problem Solving</li>
+          <li>Creative Thinking</li>
         </ul>
       </div>
 

@@ -37,11 +37,7 @@ function Geethika() {
       <div style={{ marginTop: '30px', textAlign: 'left' }}>
         <h3>About Me</h3>
         <p style={{ fontSize: '14px', lineHeight: '1.6', color: '#ccc' }}>
-          I’m a passionate and dynamic individual from Pala, Kottayam, currently pursuing my B.Sc. in Physics (2022–2025) at Alphonsa College, Pala, where I also serve as the Physics Association President. I am proud to be an M.G. University 3rd Rank Holder in Physics Model 2, and I completed my schooling at Carmel Public School, Pala.
-
-            Beyond academics, I actively explore diverse interests. I'm a state-level winner in the Asika Handwriting Competition, trained in Taekwondo and swimming, and an enthusiastic artist, dancer, and NSS volunteer. I also serve as a catechism teacher, contributing to my community's spiritual education. In 2024–25, I gained professional experience working as a part-time intern at the Medical Records Department of Mar Sleeva Medicity, Pala.
-
-            My hobbies include dancing, painting, journaling, and crafting, which reflect my creative and expressive personality. I take pride in my problem-solving ability, adaptability, and leadership qualities, which have helped me grow both personally and professionally.
+          I am currently pursuing a Bachelor of Computer Applications (BCA) at Saintgits College of Applied Sciences, Kottayam (2022–2025), and hail from Karukachal, Kottayam. My schooling was completed at St. John The Baptist’s English School, Nedumkunnam. I have a keen interest in emerging technologies and have actively pursued learning opportunities, including attending a workshop on Cloud Computing at NIT Calicut and earning certifications in AI Implementation (Infosys Springboard) and Cybersecurity & IoT. I am proud to have been placed at Wipro as a Scholar Trainee through the Work Integrated Learning Program. With strengths in leadership, problem-solving, communication, creative thinking, and adaptability, I am passionate about applying my skills to build impactful solutions in the tech industry.
         </p>
       </div>
 
@@ -83,4 +79,4 @@ function Geethika() {
   );
 }
 
-export default Geeethika;
+export default Geethika;

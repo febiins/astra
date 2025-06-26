@@ -26,10 +26,10 @@ function Anandhu() {
           }}
         />
         <h2 style={{ marginTop: '15px', fontSize: '24px' }}>
-          Ann Treesa
+          Anandhu Krishna
         </h2>
         <p style={{ fontSize: '14px', color: '#bbb' }}>
-          Team Caption of Astra
+          Vice Caption of Astra
         </p>
       </div>
 
@@ -37,11 +37,7 @@ function Anandhu() {
       <div style={{ marginTop: '30px', textAlign: 'left' }}>
         <h3>About Me</h3>
         <p style={{ fontSize: '14px', lineHeight: '1.6', color: '#ccc' }}>
-          I’m a passionate and dynamic individual from Pala, Kottayam, currently pursuing my B.Sc. in Physics (2022–2025) at Alphonsa College, Pala, where I also serve as the Physics Association President. I am proud to be an M.G. University 3rd Rank Holder in Physics Model 2, and I completed my schooling at Carmel Public School, Pala.
-
-            Beyond academics, I actively explore diverse interests. I'm a state-level winner in the Asika Handwriting Competition, trained in Taekwondo and swimming, and an enthusiastic artist, dancer, and NSS volunteer. I also serve as a catechism teacher, contributing to my community's spiritual education. In 2024–25, I gained professional experience working as a part-time intern at the Medical Records Department of Mar Sleeva Medicity, Pala.
-
-            My hobbies include dancing, painting, journaling, and crafting, which reflect my creative and expressive personality. I take pride in my problem-solving ability, adaptability, and leadership qualities, which have helped me grow both personally and professionally.
+          I am a passionate Computer Science graduate from CAS IHRD, Agali, with a strong foundation in programming and web technologies. Hailing from Palakkad and having completed my schooling at Malleeswara Vidya Nikethan, I have consistently pursued excellence both academically and in extracurricular activities. I secured the third prize in the State Karate Championship and actively participated in technical events like Web Designing and Debugging at IHRD Tharang 2025. My technical skills have been sharpened through a hands-on workshop on Artificial Intelligence, covering Python, Django, HTML & CSS, JavaScript, React, React Native (Expo), Git & GitHub, basics of AWS services, and Railway web deployment. I am enthusiastic about building modern, responsive applications and continuously expanding my skill set in the tech domain.
         </p>
       </div>
 
@@ -49,9 +45,10 @@ function Anandhu() {
       <div style={{ marginTop: '30px', textAlign: 'left' }}>
         <h3>Skills</h3>
         <ul style={{ paddingLeft: '20px', listStyle: 'square', color: '#ccc' }}>
-          <li>Problem solving</li>
-          <li>Adaptability</li>
-          <li>Leadership Qualities</li>
+          <li>Python / Django</li>
+          <li>React / React Native(expo)</li>
+          <li>Git / Github</li>
+          <li>Basics in AWS services</li>
         </ul>
       </div>
 

@@ -37,11 +37,7 @@ function Sethu() {
       <div style={{ marginTop: '30px', textAlign: 'left' }}>
         <h3>About Me</h3>
         <p style={{ fontSize: '14px', lineHeight: '1.6', color: '#ccc' }}>
-          I’m a passionate and dynamic individual from Pala, Kottayam, currently pursuing my B.Sc. in Physics (2022–2025) at Alphonsa College, Pala, where I also serve as the Physics Association President. I am proud to be an M.G. University 3rd Rank Holder in Physics Model 2, and I completed my schooling at Carmel Public School, Pala.
-
-            Beyond academics, I actively explore diverse interests. I'm a state-level winner in the Asika Handwriting Competition, trained in Taekwondo and swimming, and an enthusiastic artist, dancer, and NSS volunteer. I also serve as a catechism teacher, contributing to my community's spiritual education. In 2024–25, I gained professional experience working as a part-time intern at the Medical Records Department of Mar Sleeva Medicity, Pala.
-
-            My hobbies include dancing, painting, journaling, and crafting, which reflect my creative and expressive personality. I take pride in my problem-solving ability, adaptability, and leadership qualities, which have helped me grow both personally and professionally.
+          I am currently pursuing a Bachelor of Computer Applications (BCA) at CMS College, Kottayam (2022–2025), with a strong academic foundation laid at SH Mount HSS, Kottayam. I have enhanced my technical skills by attending a workshop at CET, Trivandrum, and earning certifications in Cybersecurity, Python, and Flutter. Alongside my academic pursuits, I am also creatively inclined and secured first prize in a pencil drawing competition. I bring strengths in leadership, problem-solving, and creative thinking, and I’m passionate about blending technology and creativity to develop innovative solutions.
         </p>
       </div>
 
@@ -50,7 +46,7 @@ function Sethu() {
         <h3>Skills</h3>
         <ul style={{ paddingLeft: '20px', listStyle: 'square', color: '#ccc' }}>
           <li>Problem solving</li>
-          <li>Adaptability</li>
+          <li>Creative Thinking</li>
           <li>Leadership Qualities</li>
         </ul>
       </div>

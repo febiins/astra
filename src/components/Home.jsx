@@ -65,7 +65,7 @@ function Home() {
                   <h5>Ann Treesa</h5>
                   <p style={{fontSize: 14}}>Team Captain</p>
                 </div>
-                <div className='members'>
+                <div className='members' onClick={() => navigate('/anandhu')}>
                   <img src='anandhu.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h5>Anandhu Krishna</h5>
                   <p style={{fontSize: 14}}>Vice Captain</p>
@@ -81,22 +81,22 @@ function Home() {
                     alignItems: 'center',
                     width: '100%',
                   }}>
-                <div className='members'>
+                <div className='members' onClick={() => navigate('/tony')}>
                   <img src='tony.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Antony Joe</h6>
                   <p style={{fontSize: 14}}>Resource Manager</p>
                 </div>
-                <div className='members'>
+                <div className='members' onClick={() => navigate('/geethika')}>
                   <img src='geethika.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Geethika A</h6>
                   <p style={{fontSize: 14}}>Team Captain</p>
                 </div>
-                <div className='members'>
+                <div className='members' onClick={() => navigate('/febin')}>
                   <img src='febin.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Febin Sunny</h6>
                   <p style={{fontSize: 14}}>Team Captain</p>
                 </div>
-                <div className='members'>
+                <div className='members' onClick={() => navigate('/amina')}>
                   <img src='amina.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Amina</h6>
                   <p style={{fontSize: 14}}>Team Captain</p>
@@ -112,7 +112,7 @@ function Home() {
                     alignItems: 'center',
                     width: '100%',
                   }}>
-                <div className='members'>
+                <div className='members' onClick={() => navigate('/sethu')}>
                   <img src='sethu.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Sethu Lakshmi</h6>
                   <p style={{fontSize: 14}}>Team Captain</p>

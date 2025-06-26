@@ -37,11 +37,7 @@ function Tony() {
       <div style={{ marginTop: '30px', textAlign: 'left' }}>
         <h3>About Me</h3>
         <p style={{ fontSize: '14px', lineHeight: '1.6', color: '#ccc' }}>
-          I’m a passionate and dynamic individual from Pala, Kottayam, currently pursuing my B.Sc. in Physics (2022–2025) at Alphonsa College, Pala, where I also serve as the Physics Association President. I am proud to be an M.G. University 3rd Rank Holder in Physics Model 2, and I completed my schooling at Carmel Public School, Pala.
-
-            Beyond academics, I actively explore diverse interests. I'm a state-level winner in the Asika Handwriting Competition, trained in Taekwondo and swimming, and an enthusiastic artist, dancer, and NSS volunteer. I also serve as a catechism teacher, contributing to my community's spiritual education. In 2024–25, I gained professional experience working as a part-time intern at the Medical Records Department of Mar Sleeva Medicity, Pala.
-
-            My hobbies include dancing, painting, journaling, and crafting, which reflect my creative and expressive personality. I take pride in my problem-solving ability, adaptability, and leadership qualities, which have helped me grow both personally and professionally.
+          I am a BCA student at SB College, Changanassery, originally from Pala, Kottayam, and a proud alumnus of Rajagiri Christu Jayanti Public School, Kakkanad. I have actively pursued opportunities to grow in the tech domain through workshops on Statistical Data Science with Python Essentials and "AI for Students: Build Your Own Generative AI Model." I also completed an add-on course in Hardware and Networking and a monsoon internship in Flutter App Development at ICT Academy, Technopark Phase 4, Trivandrum. My achievements include securing a placement at Accenture as a Software/Application/Cloud Technology Support Associate, leading as Head Coordinator for the Gaming Event at Magnera 2024, and winning prizes at intercollegiate competitions such as Nexcore and AGAROSH 2K24. With strong skills in leadership, problem-solving, communication, and creative thinking, I am driven to explore and innovate in the world of technology.
         </p>
       </div>
 
@@ -50,8 +46,9 @@ function Tony() {
         <h3>Skills</h3>
         <ul style={{ paddingLeft: '20px', listStyle: 'square', color: '#ccc' }}>
           <li>Problem solving</li>
-          <li>Adaptability</li>
+          <li>Creative Thinking</li>
           <li>Leadership Qualities</li>
+          <li>Communication</li>
         </ul>
       </div>
 
