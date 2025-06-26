@@ -1,0 +1,100 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #1e1e1e;
+  box-sizing: border-box;
+  font-family: 'Orbitron';
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Orbitron', sans-serif;
+}
+
+/* Main home container */
+.home-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  overflow-x: hidden;
+}
+.members {
+  cursor: pointer;
+}
+.members:hover {
+  color: #fff;
+  transition: color 0.3s; 
+}
+.members img:hover {
+  border-radius: 10;
+  scale: 1.1;
+  transition: scale 0.2s;
+}
+.astras-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.home-header {
+  position: fixed;
+  top: 0;
+  margin-top: 10px;
+  width: 95%;
+  height: 80px;
+  background-color: #191414;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  z-index: 1000;
+  box-shadow: 0 2px 4px #1e1e1e;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #1DB954;
+  background-color: transparent;
+}
+
+.logo-container img {
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+}
+
+.navbar-container {
+  display: flex;
+  gap: 20px;
+}
+
+.navbar-container a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s;
+  cursor: pointer;
+}
+
+.navbar-container a:hover {
+  color: #1DB954;
+}
+
+.section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  scroll-margin-top: 160px;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  color: #1DB954;
+}
