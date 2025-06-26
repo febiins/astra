@@ -140,14 +140,11 @@ function Home() {
               <br />
               <br />
               <div style={{display: 'flex', gap: 20}}>
+                <h3> Social service Initiative</h3>
                 <img src='act1.png' height={200} width={220} style={{borderRadius:20}} />
                 <img src='act2.png' height={200} width={220} style={{borderRadius:20}} />
               </div>
               <br />
-              <div style={{display: 'flex', gap: 20}}>
-                <img src='act1.png' height={200} width={220} style={{borderRadius:20}} />
-                <img src='act2.png' height={200} width={220} style={{borderRadius:20}} />
-              </div>
             </div>
           </Element>
           <Element name="astras" className="section" id="astras">
