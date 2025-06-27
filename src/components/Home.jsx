@@ -109,7 +109,6 @@ function Home() {
                     justifyContent: 'center', 
                     gap: 40, 
                     alignItems: 'center',
-                    width: '100%',
                   }}>
                 <div className='members' onClick={() => navigate('/sethu')}>
                   <img src='sethu.png' height={150} width={150} style={{borderRadius: 400}} />
