@@ -1,30 +1,28 @@
 # Step 1: Build using Node
 FROM node:18 AS build
 
-# Set working directory
 WORKDIR /app
 
-# Install dependencies
+# Copy package.json and install dependencies
 COPY package.json package-lock.json ./
 RUN npm install
 
-# Copy project files
-COPY . .
+# 🔥 Copy both public and src folders
+COPY public ./public
+COPY src ./src
+COPY index.html .
 
-# Build the app (Vite output goes to `dist`)
+# 🔥 Now run the build (Vite copies public → dist automatically)
 RUN npm run build
 
-# Step 2: Serve using Nginx
+# Step 2: Serve with Nginx
 FROM nginx:stable-alpine
 
-# Remove default nginx content
+# Clean default Nginx content
 RUN rm -rf /usr/share/nginx/html/*
 
-# Copy Vite build output to Nginx's html folder
+# Copy build output to Nginx html directory
 COPY --from=build /app/dist /usr/share/nginx/html
 
-# Expose port 80
 EXPOSE 80
-
-# Start Nginx
 CMD ["nginx", "-g", "daemon off;"]
