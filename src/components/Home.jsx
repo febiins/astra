@@ -163,7 +163,7 @@ function Home() {
                 </p>
               </motion.div>
               <motion.div>
-                <img src='newlogo.png'  height={400} width={400}/>
+                <img src='/newlogo.png'  height={400} width={400}/>
               </motion.div>
             </div>
           </Element>

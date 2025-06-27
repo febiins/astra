@@ -69,14 +69,14 @@ function Ann() {
           target="_blank"
           rel="noreferrer"
         >
-          <img src="instagram.svg" alt="GitHub" width={30} />
+          <img src="/instagram.svg" alt="GitHub" width={30} />
         </a>
         <a
           href="https://linkedin.com/"
           target="_blank"
           rel="noreferrer"
         >
-          <img src="linkedin.svg" alt="LinkedIn" width={30} />
+          <img src="/linkedin.svg" alt="LinkedIn" width={30} />
         </a>
       </div>
     </div>
