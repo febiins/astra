@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import reactLogo from './assets/react.svg'
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import './App.css'
 import Home from './components/Home';
