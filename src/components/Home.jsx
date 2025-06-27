@@ -23,7 +23,7 @@ function Home() {
             initial={{ opacity: 0 }}
             transition={{ duration: 1 }}
           >
-            <img src="newlogo.png" height={60} width={60} />
+            <img src="/newlogo.png" height={60} width={60} />
             <h2 className="astra-text" style={{backgroundColor: 'transparent'}}>Astra</h2>
           </motion.div>
 
