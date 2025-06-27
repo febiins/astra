@@ -16,7 +16,7 @@ function Anandhu() {
       {/* Profile */}
       <div>
         <img
-          src="anandhu.png"
+          src="/anandhu.png"
           alt="User"
           style={{
             borderRadius: '100%',

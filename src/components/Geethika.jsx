@@ -16,7 +16,7 @@ function Geethika() {
       {/* Profile */}
       <div>
         <img
-          src="geethika.png"
+          src="/geethika.png"
           alt="User"
           style={{
             borderRadius: '100%',

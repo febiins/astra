@@ -16,7 +16,7 @@ function Amina() {
       {/* Profile */}
       <div>
         <img
-          src="amina.png"
+          src="/amina.png"
           alt="User"
           style={{
             borderRadius: '100%',

@@ -61,12 +61,12 @@ function Home() {
                     justifyContent: 'center'
                   }}>
                 <div className='members' onClick={() => navigate('/ann')}>
-                  <img src='ann.png' height={150} width={150} style={{borderRadius: 400}} />
+                  <img src='/ann.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h5>Ann Treesa</h5>
                   <p style={{fontSize: 14}}>Team Captain</p>
                 </div>
                 <div className='members' onClick={() => navigate('/anandhu')}>
-                  <img src='anandhu.png' height={150} width={150} style={{borderRadius: 400}} />
+                  <img src='/anandhu.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h5>Anandhu Krishna</h5>
                   <p style={{fontSize: 14}}>Vice Captain</p>
                 </div>
@@ -81,22 +81,22 @@ function Home() {
                     alignItems: 'center',
                   }}>
                 <div className='members' onClick={() => navigate('/tony')}>
-                  <img src='tony.png' height={150} width={150} style={{borderRadius: 400}} />
+                  <img src='/tony.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Antony Joe</h6>
                   <p style={{fontSize: 14}}>Resource Manager</p>
                 </div>
                 <div className='members' onClick={() => navigate('/geethika')}>
-                  <img src='geethika.png' height={150} width={150} style={{borderRadius: 400}} />
+                  <img src='/geethika.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Geethika A</h6>
                   <p style={{fontSize: 14}}>Team Captain</p>
                 </div>
                 <div className='members' onClick={() => navigate('/febin')}>
-                  <img src='febin.png' height={150} width={150} style={{borderRadius: 400}} />
+                  <img src='/febin.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Febin Sunny</h6>
                   <p style={{fontSize: 14}}>Team Captain</p>
                 </div>
                 <div className='members' onClick={() => navigate('/amina')}>
-                  <img src='amina.png' height={150} width={150} style={{borderRadius: 400}} />
+                  <img src='/amina.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Amina</h6>
                   <p style={{fontSize: 14}}>Team Captain</p>
                 </div>
@@ -111,12 +111,12 @@ function Home() {
                     alignItems: 'center',
                   }}>
                 <div className='members' onClick={() => navigate('/sethu')}>
-                  <img src='sethu.png' height={150} width={150} style={{borderRadius: 400}} />
+                  <img src='/sethu.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Sethu Lakshmi</h6>
                   <p style={{fontSize: 14}}>Team Captain</p>
                 </div>
                 <div className='members' onClick={() => navigate('/alan')}>
-                  <img src='alan.png' height={150} width={150} style={{borderRadius: 400}} />
+                  <img src='/alan.png' height={150} width={150} style={{borderRadius: 400}} />
                   <h6>Alan Shaji</h6>
                   <p style={{fontSize: 14}}>Team Captain</p>
                 </div>
@@ -139,8 +139,8 @@ function Home() {
               <br />
               <div style={{display: 'flex', gap: 20}}>
                 <h3> Social service Initiative</h3>
-                <img src='act1.png' height={200} width={220} style={{borderRadius:20}} />
-                <img src='act2.png' height={200} width={220} style={{borderRadius:20}} />
+                <img src='/act1.png' height={200} width={220} style={{borderRadius:20}} />
+                <img src='/act2.png' height={200} width={220} style={{borderRadius:20}} />
               </div>
               <br />
             </div>
@@ -175,10 +175,10 @@ function Home() {
                 gap: 40,
               }}>
                 <a href='https://www.instagram.com/astra_mpower_?igsh=MWN5NGp6Mjg1enRkYg=='>
-                  <img src='instagram.svg' height={40} width={40} />
+                  <img src='/instagram.svg' height={40} width={40} />
                 </a>
                 <a href=''>
-                  <img src='linkedin.svg' height={40} width={40} />
+                  <img src='/linkedin.svg' height={40} width={40} />
                 </a>
             </div>
             <br />
@@ -217,8 +217,8 @@ function Home() {
     <div style={{ backgroundColor: '#181818' }}>
       <h4 style={{ color: '#fff',backgroundColor: '#181818' }}>Follow Us</h4>
       <div style={{ display: 'flex', gap: 15, marginTop: 10,backgroundColor: '#181818' }}>
-        <img src="instagram.svg" alt="Instagram" height={30} width={30} />
-        <img src="linkedin.svg" alt="LinkedIn" height={30} width={30} />
+        <img src="/instagram.svg" alt="Instagram" height={30} width={30} />
+        <img src="/linkedin.svg" alt="LinkedIn" height={30} width={30} />
       </div>
     </div>
   </div>

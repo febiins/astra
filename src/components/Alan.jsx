@@ -16,7 +16,7 @@ function Alan() {
       {/* Profile */}
       <div>
         <img
-          src="alan.png"
+          src="/alan.png"
           alt="User"
           style={{
             borderRadius: '100%',

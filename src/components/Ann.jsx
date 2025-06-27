@@ -16,7 +16,7 @@ function Ann() {
       {/* Profile */}
       <div>
         <img
-          src="ann.png"
+          src="/ann.png"
           alt="User"
           style={{
             borderRadius: '100%',

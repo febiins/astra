@@ -16,7 +16,7 @@ function Sethu() {
       {/* Profile */}
       <div>
         <img
-          src="sethu.png"
+          src="/sethu.png"
           alt="User"
           style={{
             borderRadius: '100%',

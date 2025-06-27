@@ -16,7 +16,7 @@ function Febin() {
       {/* Profile */}
       <div>
         <img
-          src="febin.png"
+          src="/febin.png"
           alt="User"
           style={{
             borderRadius: '100%',
